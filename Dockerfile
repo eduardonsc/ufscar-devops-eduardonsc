@@ -1,4 +1,4 @@
-Definimos a imagem basea qual nossa aplicação vai se basear
+#Definimos a imagem basea qual nossa aplicação vai se basear
 FROM nginx:1.17.0-alpine
 #Definimos o nome do mantenedor, seja ele uma pessoa ou instituição
 LABEL maintainer="Eduardo Nascimento <dudunasc@gmail.com>"
